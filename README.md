@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanuja M</h1>
-<h3 align="center">Final year Student(ISE) From SIET.</h3>
+<h3 align="center">Final year  Engineering Student(ISE) From SIET.</h3>
 
 
 - 🌱 I’m currently learning **Python and JAVA**
