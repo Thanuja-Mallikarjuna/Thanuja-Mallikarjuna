@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanuja M</h1>
 <h3 align="center">Final year Student(ISE) From SIET.</h3>
-<img align="right" alt="img" width="400" src="https://st2.depositphotos.com/3126965/6030/v/450/depositphotos_60302171-stock-illustration-woman-with-computer.jpg>
+
 
 - 🌱 I’m currently learning **Python and JAVA**
 
